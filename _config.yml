@@ -1,9 +1,9 @@
-title: Hydure
-tagline: A concise two-column blog theme for Jekyll
+title: "Hendra's Webite"
+tagline: A place to introduce myself to the world!
 
 author:
-  name: Song-Zi Vong
-  url: https://twitter.com/zivong91
+  name: Hendra Manudinata
+  url: https://github.com/hendramanudinata03
 
 plugins:
   - jekyll-feed
